@@ -15,4 +15,4 @@ Este projeto é um exercício de containerização utilizando Docker, desenvolvi
 - **MySQL**: Configurado como um serviço dentro de um contêiner Docker para facilitar o gerenciamento do banco.
 - **Dockerfile**: Arquivo de configuração do contêiner.
 
-Este projeto é totalmente feito para fins didático, simples e objetivo para dar entrada as minhas práticas de containers.
+Este projeto é totalmente feito para fins didático, simples e objetivo para dar entrada as minhas práticas de contêiners.
