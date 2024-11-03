@@ -11,6 +11,6 @@ Este projeto é um exercício de containerização utilizando Docker, desenvolvi
 
 ## Estrutura do Projeto
 
-- **API**: Uma rota simples que realiza apenas operação de GET todos os `alunos` básicas de CRUD (create, read, update, delete) no banco de dados.
+- **API**: Uma rota simples que realiza apenas operação de GET todos os `alunos` (read) do banco de dados.
 - **MySQL**: Configurado como um serviço dentro de um contêiner Docker para facilitar o gerenciamento do banco.
-- **Docker Compose**: Arquivo de configuração para orquestrar os contêineres da API e do banco de dados.
+- **Dockerfile**: Arquivo de configuração do contêiner.
