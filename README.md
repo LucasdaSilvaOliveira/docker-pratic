@@ -14,3 +14,5 @@ Este projeto é um exercício de containerização utilizando Docker, desenvolvi
 - **API**: Uma rota simples que realiza apenas operação de GET todos os `alunos` (read) do banco de dados.
 - **MySQL**: Configurado como um serviço dentro de um contêiner Docker para facilitar o gerenciamento do banco.
 - **Dockerfile**: Arquivo de configuração do contêiner.
+
+Este projeto é totalmente feito para fins didático, simples e objetivo para dar entrada as minhas práticas de containers.
