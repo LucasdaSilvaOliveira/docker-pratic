@@ -14,9 +14,3 @@ Este projeto é um exercício de containerização utilizando Docker, desenvolvi
 - **API**: Uma rota simples que realiza operações básicas de CRUD (create, read, update, delete) no banco de dados.
 - **MySQL**: Configurado como um serviço dentro de um contêiner Docker para facilitar o gerenciamento do banco.
 - **Docker Compose**: Arquivo de configuração para orquestrar os contêineres da API e do banco de dados.
-
-## Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/LucasdaSilvaOliveira/docker-pratic.git
